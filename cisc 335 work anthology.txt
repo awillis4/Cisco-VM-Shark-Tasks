@@ -1,0 +1,28 @@
+cisc 335 work anthology fall 2016 yun wang
+
+week 1
+
+1. The purpose of a database is to accurately represent and store large amounts of data.
+
+2. The most commonly used type of database is the relational database.
+
+3. One example of this type of database shows the relationship of the user to the client.
+
+Client: user id, last name, first name, email address, rank
+User: user id, department id, rank
+
+4. the primary id is user id for client and department id for user.
+the department id key could be the surrogate key in the client table.
+
+5. Thhe surrogate key relates 2 otherwise unrelated sets of data.
+In this case, the client contains the surrogate key.
+
+6. Without the surrogate key, the 2 charts would be unrelated if the user id was different as a client than as a user.
+
+7. In charts, information is recorded as data. Information entered into the system becomes data, which represents, but does not always resemble the information.
+
+8. For instance, the data John Searle could be represented as 0001011urd3928. The computer is expected to know that these are equivalent.
+
+9. A single user database could be something like a chronology of events such as all previous addresses, emails and phone numbers of a single person and the times that they were changed.
+
+10. Problems that may occur are improper recording of the data, transcription errors, incorrect data, or spam or spoof data (irrelevant data).
